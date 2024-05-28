@@ -50,8 +50,8 @@ InventTrent leverages key object-oriented programming (OOP) concepts:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/inventtrent.git
-    cd inventtrent
+    git clone https://github.com/yourusername/inventTrent.git
+    cd inventTrent
     ```
 
 2. **Install dependencies**:
