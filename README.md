@@ -1,6 +1,6 @@
 # InventTrent - Where Inventory Meets Intelligence
 
-![Project Output](/InventTrent/Output.png)
+![Project Output](/Output.png)
 
 ## Introduction
 
